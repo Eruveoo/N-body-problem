@@ -1,0 +1,7 @@
+csv
+numpy
+click
+tqdm
+matplotlib
+pytest
+pytest-mock
